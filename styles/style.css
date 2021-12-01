@@ -26,6 +26,9 @@ body {
   display: flex;
   justify-content: space-between;
   padding: 15px 0;
+  position: fixed;
+  z-index: 1;
+  background-color: white
 }
 
 .nav-bar-ul {
